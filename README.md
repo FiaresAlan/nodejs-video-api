@@ -23,7 +23,7 @@ API RESTful para gerenciamento de vídeos, criada com **Node.js**, **Fastify** e
 - dotenv, uuid, postgres
 
 
-## ▶️ Como Rodar
+### ▶️ Como Rodar
 ```bash
 git clone https://github.com/FiaresAlan/nodejs-video-api.git
 cd nome-do-repo
