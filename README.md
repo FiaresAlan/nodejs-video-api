@@ -22,3 +22,11 @@ API RESTful para gerenciamento de vídeos, criada com **Node.js**, **Fastify** e
 - Deploy: PostgreSQL (via NeonDB)
 - dotenv, uuid, postgres
 
+
+## ▶️ Como Rodar
+```bash
+git clone https://github.com/FiaresAlan/nodejs-video-api.git
+cd nome-do-repo
+npm install
+
+
